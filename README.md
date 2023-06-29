@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on so_elections ( https://github.com/3TERRRNITY/so_elections )
 
-- 🌱 I’m currently learning **Redux, TypeScript**
+- 🌱 I’m currently learning ** TypeScript**
 
 - 💬 Ask me about **React, JavaScript, HTML/CSS, tailwind**
 
