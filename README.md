@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on so_elections ( https://github.com/3TERRRNITY/so_elections )
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **Solidity**
 
-- 💬 Ask me about **React, JavaScript, HTML/CSS, tailwind**
+- 💬 I like **React, JavaScript, HTML/CSS, tailwind, Cryptography**
 
 - 📫 How to reach me **3terrrnity@gmail.com**
 
