@@ -3,7 +3,7 @@
 <h3 align="center">I am a React frontend developer.</h3>
 <img src="https://camo.githubusercontent.com/6dddf1587135613d980bf04c74cbf308fbea6d25442cb7bbbf100d67e1eaf436/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31612f62622f65392f31616262653962363165616339653837633834356334663265316561313335362e676966" align="right">
 
-- 🔭 I’m currently working on so_elections ( https://github.com/3TERRRNITY/so_elections )
+- 🔭 I’m currently working on car_hub ( https://github.com/3TERRRNITY/car-hub )
 
 - 🌱 I’m currently learning **TypeScript** and **Solidity**
 
