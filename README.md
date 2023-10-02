@@ -7,9 +7,7 @@
 - 📫 How to reach me **3terrrnity@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.com/3terrrnity_8473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="3terrrnity_8473" height="30" width="40" /></a>
 <a href="https://instagram.com/@atljh.ytl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@atljh.ytl" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/3terrrnity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="3terrrnity" height="30" width="40" /></a>
 <a href="https://discord.gg/3TERRRNITY#0756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3TERRRNITY#0756" height="30" width="40" /></a>
 </p>
 
