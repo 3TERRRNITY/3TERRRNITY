@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fyodor Nedbalskiy</h1>
 <h3 align="center">I am a React frontend developer.</h3>
-- 🌱 I’m currently learning **TypeScript** and **Solidity**
+- 🌱 I’m currently learning TypeScript and Solidity
 
 - 💬 I like **React, JavaScript, HTML/CSS, tailwind, Cryptography**
 
