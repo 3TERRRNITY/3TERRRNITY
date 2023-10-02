@@ -1,18 +1,10 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Fyodor Nedbalskiy</h1>
 <h3 align="center">I am a React frontend developer.</h3>
-<img src="https://camo.githubusercontent.com/6dddf1587135613d980bf04c74cbf308fbea6d25442cb7bbbf100d67e1eaf436/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31612f62622f65392f31616262653962363165616339653837633834356334663265316561313335362e676966" align="right">
-
-- 🔭 I’m currently working on car_hub ( https://github.com/3TERRRNITY/car-hub )
-
 - 🌱 I’m currently learning **TypeScript** and **Solidity**
 
 - 💬 I like **React, JavaScript, HTML/CSS, tailwind, Cryptography**
 
 - 📫 How to reach me **3terrrnity@gmail.com**
-
-- ⚡ Fun fact **I'm always learning something new, my brain haunts me**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.com/3terrrnity_8473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="3terrrnity_8473" height="30" width="40" /></a>
